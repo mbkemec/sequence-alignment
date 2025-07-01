@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Zone.Identifier
+Zone.Identifier
+
+# Virtual env
+venv/
+.venv/
+
+# IDE configs
+.vscode/
+.idea/
