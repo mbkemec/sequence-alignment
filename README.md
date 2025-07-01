@@ -34,12 +34,14 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/mbkemec/sequence-alignment.git
-cd sequence-alignment```
+cd sequence-alignment 
+```
 
 ### Running the Code
 
 ```bash
-python alignment_score.py```
+python alignment_score.py 
+```
 
 After this, the program will ask you to answer the following questions;
 
@@ -61,8 +63,9 @@ Please write your second sequence: TA
 !! Matrix types: 'BLOSUM62.txt' , 'PAM250.txt' , 'TTM.txt' !!
 Please select your substition matrix (with file extension): TTM.txt
 Please write your 'GAP' penalty score: -2
-('TCA', 'T-A', 2.0)
+('TCA', 'T-A', 2.0) 
 ```
+
 
 ## Requirements
 
